@@ -1,8 +1,12 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
-  margin: 2em;
+    font-size: 125%;
+    background: #f0f0f0;
+    color: #222;
+    font-family: "Alegreya",Cambria,"Chaparral Pro",Georgia,serif;
+    line-height: 1.5;
+    margin:0
 }
 
 h1 {
