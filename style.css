@@ -142,3 +142,14 @@ img:hover {
  button{
    background-color: #ddd;
 }
+article{
+  width:90%;
+  margin-left: auto; 
+  margin-right:auto; 
+}
+#img_jay{
+  width: auto;
+	height: auto;
+	max-width: 50%;
+	max-height: 45%;
+}
