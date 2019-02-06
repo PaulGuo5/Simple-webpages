@@ -6,7 +6,7 @@ body {
     color: #222;
     font-family: "Alegreya",Cambria,"Chaparral Pro",Georgia,serif;
     line-height: 1.5;
-    background:url("https://cdn.glitch.com/bb9fe802-3f91-4fc1-881e-93ace1479112%2FbackgroundPaper2.jpg?1549479232999")  no-repeat center center;
+    background:url("https://cdn.glitch.com/bb9fe802-3f91-4fc1-881e-93ace1479112%2Fbg-homepage.jpg?1549481014000")  no-repeat center center;
     background-size:cover;
     background-attachment:fixed;
     background-color:#CCCCCC;
@@ -19,7 +19,6 @@ h1 {
 }
 
 .nav-container {
-    background: #fbe643;
     font-family: "Lato","Open Sans","Lucida Grande","Verdana",sans-serif;
     font-weight: 900;
     text-transform: uppercase;
