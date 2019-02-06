@@ -153,3 +153,10 @@ article{
 	max-width: 50%;
 	max-height: 45%;
 }
+
+#img_tracy{
+  width: auto;
+	height: auto;
+	max-width: 20%;
+	max-height: 20%;
+}
