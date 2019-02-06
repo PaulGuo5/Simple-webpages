@@ -6,10 +6,11 @@ body {
     color: #222;
     font-family: "Alegreya",Cambria,"Chaparral Pro",Georgia,serif;
     line-height: 1.5;
-    background:url(./images/background.jpg)  no-repeat center center;
+    background:url("https://cdn.glitch.com/bb9fe802-3f91-4fc1-881e-93ace1479112%2FbackgroundPaper2.jpg?1549479232999")  no-repeat center center;
     background-size:cover;
     background-attachment:fixed;
     background-color:#CCCCCC;
+    color:white;
 }
 
 h1 {
