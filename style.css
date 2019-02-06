@@ -129,3 +129,12 @@ img:hover {
 .infor{
   font-size:12px;
 }
+
+.displayNone{
+  display: none;
+  float:left;
+}
+.display{
+  display:block;
+  float:left;
+}
