@@ -2,7 +2,6 @@
 
 body {
     font-size: 125%;
-    background: #f0f0f0;
     color: #222;
     font-family: "Alegreya",Cambria,"Chaparral Pro",Georgia,serif;
     line-height: 1.5;
@@ -10,9 +9,15 @@ body {
     background-size:cover;
     background-attachment:fixed;
     background-color:#CCCCCC;
-    color:white;
+    margin: 2em;
 }
 
+header{
+  font-family: "Lucida Console",Monaco,Monospace;
+  color: white;
+  margin: 2em;
+
+}
 h1 {
   font-style: italic;
   color: #373fff;
