@@ -160,3 +160,20 @@ article{
 	max-width: 25%;
 	max-height: 25%;
 }
+
+table {
+  width:80%;
+  text-align:center;
+  margin-left: auto; 
+  margin-right:auto; 
+  
+}
+th {
+  font-weight: bold;
+  background-color: #ae8e1b;
+  color:white;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+}
