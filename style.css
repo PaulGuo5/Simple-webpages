@@ -121,3 +121,11 @@ img {
 img:hover {
   opacity: 0.5;
 }
+
+.float-left{
+  float:left;
+}
+
+.infor{
+  font-size:12px;
+}
