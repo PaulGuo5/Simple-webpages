@@ -177,3 +177,8 @@ th {
 th, td {
   border-bottom: 1px solid #ddd;
 }
+
+table img{
+  width:300px;
+  height:200px;
+}
