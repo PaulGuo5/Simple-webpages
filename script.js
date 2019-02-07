@@ -30,3 +30,13 @@ function button_detail3_function(){
 }
 const button_detail3 = document.getElementById("detail3");
 button_detail3.addEventListener('click', button_detail3_function);
+
+
+
+function button_moreMovie_function(){
+  console.log("Button moreMovie clicked!");
+  var get_ul = document.getElementById("movieTable");
+  get_ul.className = "display";
+}
+const button_moreMovie = document.getElementById("moreMovie");
+button_moreMovie.addEventListener('click', button_moreMovie_function);
