@@ -35,6 +35,8 @@ main{
 
 .nav-photo{
   background:url("https://cdn.glitch.com/475e62f5-e2a8-41de-87dd-c08e72b6c22d%2Fheader.png?1549677858709")  no-repeat center center;
+  width:100%;
+  background-color:#67AECA;
 }
 
 nav a{
