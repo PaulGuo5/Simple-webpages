@@ -14,16 +14,7 @@ body {
 }
 
 .homeBody{
-    font-size: 16px;
-    color: #222;
-    font-family: "Lucida Console",Monaco,Monospace;
-    line-height: 1.5;
     background:url("https://cdn.glitch.com/bb9fe802-3f91-4fc1-881e-93ace1479112%2Fbg-homepage.jpg?1549481014000")  no-repeat center center;
-    background-size:cover;
-    background-attachment:fixed;
-    background-color:#CCCCCC;
-    margin: 3em;
-    height:100%;
 }
 
 header{
@@ -48,6 +39,7 @@ nav{
     text-align:center;
   
 }
+
 nav ul {
     list-style-type: none;
     margin: 0;
