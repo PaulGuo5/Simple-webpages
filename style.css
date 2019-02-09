@@ -22,6 +22,12 @@ header{
     background:url("https://cdn.glitch.com/475e62f5-e2a8-41de-87dd-c08e72b6c22d%2Fblack%26yellow.jpeg?1549750715949")  no-repeat center center;
 }
 
+header p{
+  font-size: 24px;
+  font-style: italic;
+  color:#f3f3f3;
+}
+
 h1{
   font-size: 24px;
   font-style: italic;
@@ -168,7 +174,7 @@ table img{
   height:300px;
 }
 
-#homepage_img{
-  width:60%;
-  height:60%;
+#homepage-img{
+  width:65%;
+  height:35%;
 }
