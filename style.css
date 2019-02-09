@@ -2,7 +2,7 @@
 
 body {
     color: #222;
-    font-family: "Lucida Console",Monaco,Monospace;
+    font-family: "Lato","Open Sans","Lucida Grande","Verdana",sans-serif;
     line-height: 1.5;
     background:url("https://cdn.glitch.com/bb9fe802-3f91-4fc1-881e-93ace1479112%2Fbg-otherpage.jpg?1549486999442")  no-repeat center center;
     background-size:cover;
@@ -17,12 +17,17 @@ body {
 }
 
 header{
-    color: white;
+    color: #e6c44a;
     font-size: 26px;
     font-family: "Lato","Open Sans","Lucida Grande","Verdana",sans-serif;
 }
 
+h1{
+  font-size: 24px;
+}
+
 h2 {
+  font-size:
     font-style: italic;
 }
 
@@ -76,8 +81,9 @@ p{
 
 span{
   font-size:20px;
-  color: #ae8e1b;
+  color: #caa520;
   font-style: italic;
+  font-family: "Lucida Console",Monaco,Monospace;
 }
 
 img {
