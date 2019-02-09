@@ -12,6 +12,10 @@ body {
     height:100%;
 }
 
+p{
+  font-size: 20px;
+}
+
 .homeBody{
     background:url("https://cdn.glitch.com/bb9fe802-3f91-4fc1-881e-93ace1479112%2Fbg-homepage.jpg?1549481014000")  no-repeat center center;
 }
