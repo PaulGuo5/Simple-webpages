@@ -17,9 +17,10 @@ body {
 }
 
 header{
-    color: #e6c44a;
-    font-size: 26px;
+    color: white;
     font-family: "Lato","Open Sans","Lucida Grande","Verdana",sans-serif;
+    background:url("https://cdn.glitch.com/475e62f5-e2a8-41de-87dd-c08e72b6c22d%2Fblack%26yellow.jpeg?1549750715949")  no-repeat center center;
+
 }
 
 h1{
