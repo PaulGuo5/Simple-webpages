@@ -22,6 +22,27 @@ p{
     background:url("https://cdn.glitch.com/bb9fe802-3f91-4fc1-881e-93ace1479112%2Fbg-homepage.jpg?1549481014000")  no-repeat center center;
 }
 
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+  header{
+    background:black;
+  }
+}
+
+/* // Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) { 
+ 
+}
+
+/* // Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) { 
+ }
+
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) { 
+}
+
+
 header{
     color: white;
     font-family: "Lato","Open Sans","Lucida Grande","Verdana",sans-serif;
