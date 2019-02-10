@@ -24,10 +24,6 @@ p{
 
 /* // Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
-  header{
-    background-color:black !important;
-    back
-  }
 }
 
 /* // Small devices (landscape phones, less than 768px) */
@@ -37,6 +33,10 @@ p{
 
 /* // Medium devices (tablets, less than 992px) */
 @media (max-width: 991.98px) { 
+/*   header{
+    background-color:black !important;
+    background:none !important;
+  } */
  }
 
 /* // Large devices (desktops, less than 1200px) */
@@ -48,6 +48,7 @@ header{
     color: white;
     font-family: "Lato","Open Sans","Lucida Grande","Verdana",sans-serif;
     background:url("https://cdn.glitch.com/475e62f5-e2a8-41de-87dd-c08e72b6c22d%2Fblack%26yellow.jpeg?1549750715949")  no-repeat center center;
+    background-size: cover;
 }
 
 header p{
