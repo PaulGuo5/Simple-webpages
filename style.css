@@ -63,7 +63,7 @@ h1{
 
 h2 {
   font-size:22px;
-  color:#666;
+  color:#666 ! important;
 }
 
 main{
