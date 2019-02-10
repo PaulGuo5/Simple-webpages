@@ -47,14 +47,16 @@
         <h2>
           Favorite movies
         </h2>
-        <table id="movieTable">
-          <thead class="thead-light">
+        <table id="movieTable" class="table-bordered table-hover">
+          <thead class="thead-light bg-warning">
             <tr>
-              <th>Name</th>
-              <th>Year</th>
-              <th>Cast(main)</th>
-              <th>Introduction</th>
+              <th scope="col">Name</th>
+              <th scope="col">Year</th>
+              <th scope="col">Cast(main)</th>
+              <th scope="col">Introduction</th>
             </tr>
+          </thead>
+          <tbody>
             <tr>
               <td><a href="https://en.wikipedia.org/wiki/Forrest_Gump">Forrest Gump</a></td>
               <td>1994</td>
@@ -90,6 +92,7 @@
                 defending himself against the hostile mutants.
               </td>
             </tr>
+          </tbody>
         </table>
         <div class="infor">
               <button type="button" id="moreMovie" class="float-left btn btn-secondary">

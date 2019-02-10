@@ -204,15 +204,7 @@ table {
   margin-right:auto; 
   
 }
-th {
-  font-weight: bold;
-  background-color: #ae8e1b;
-  color:white;
-}
 
-th, td {
-  border-bottom: 1px solid #ddd;
-}
 
 table img{
   width:300px;
