@@ -13,7 +13,7 @@ body {
 }
 
 p{
-  font-size: 20px;
+  font-size: 18px;
   color:#626364;
 }
 
@@ -24,6 +24,10 @@ p{
 
 /* // Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
+  header{
+    background-color:black !important;
+    back
+  }
 }
 
 /* // Small devices (landscape phones, less than 768px) */
